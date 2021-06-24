@@ -1,0 +1,17 @@
+{
+  "name": "musk_bot",
+  "version": "1.0.0",
+  "description": "A bot that buys/sells BTC whenever Elon Musk tweets about it",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Pranesh A S",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "node-binance-api": "^0.12.5",
+    "sentiment": "^5.0.2"
+  }
+}
