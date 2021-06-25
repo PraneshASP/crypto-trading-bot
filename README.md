@@ -1,11 +1,11 @@
-[![Product Name Screen Shot](https://cdn-images-1.medium.com/max/2560/1*8OvHd4ONUtZLQFSMQ4kVwg.jpeg)]()
+![Product Name Screen Shot](https://cdn-images-1.medium.com/max/2560/1*8OvHd4ONUtZLQFSMQ4kVwg.jpeg)
 
 
 <!-- PROJECT LOGO -->
 <p align="center">
   <h3 align="center">Sentiment based Cryptocurrency trading Bot</h3>
   <p align="center">
-     <a href="<Link Here>"><strong>Explore the post »</strong></a>
+     <a href="https://medium.com/geekculture/this-bot-can-trade-bitcoin-whenever-elon-musk-tweets-about-it-614b95633663"><strong>Explore the post »</strong></a>
      <br /> <br />
     <a href="https://github.com/PraneshASP/crypto-trading-bot/issues">Report Bug </a>
     ·
@@ -24,7 +24,7 @@
 
 For a more detailed explanation of the code, you can refer to my medium post associated with this repository.
 
-> [Visit blog](<Link Here>) - This bot can trade Bitcoin whenever Elon Musk tweets about it.
+> [Visit blog](https://medium.com/geekculture/this-bot-can-trade-bitcoin-whenever-elon-musk-tweets-about-it-614b95633663) - This bot can trade Bitcoin whenever Elon Musk tweets about it.
 
 ### Built With
 
